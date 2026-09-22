@@ -25,6 +25,10 @@ Star-topology Master–Slave WSN over LoRa:
 * Master node (Gateway): listens for LoRa packets, decodes and pushes data to the Web Server, relays user commands from the web UI back to the Slave via LoRa
 
 * Master-controlled data flow prevents RF collisions and allows future scaling to multiple Slaves without redesigning the Master
+
+<img width="1299" height="1091" alt="block_diagram" src="https://github.com/user-attachments/assets/3100aa8f-67f4-4ff1-84d1-46efa9881f00" />
+
+
 ## 🔧 Hardware
 * MCU: ESP32 (NodeMCU) on both nodes — dual-core, WiFi built-in, 3 hardware UARTs
 
