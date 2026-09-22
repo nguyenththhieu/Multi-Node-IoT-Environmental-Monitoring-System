@@ -1,4 +1,4 @@
-# Multi-Node LoRa Power & Environmental Monitoring System
+# Multi-Node IoT Environmental Monitoring System
 ESP32-based multi-node system for remote power and environmental monitoring using 433 MHz LoRa and Wi-Fi.
 ---
 
